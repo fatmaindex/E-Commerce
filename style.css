@@ -866,8 +866,18 @@ padding: 30px;
   padding: 10px;
   font-size: 13px;
 }
+#cart-add{
+  /* border-bottom: 1px solid #e2e9e1; */
 
 
+
+}
+ #footer-color{
+background-color: rgb(227, 231, 243);
+
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+}
 /* --------------------------------- medium screen-------------------------- */
 @media (max-width: 799px) {
   /*.........responsive sidebar menu.......... */
